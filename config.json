@@ -1,0 +1,98 @@
+{
+    "auto_append_newline": true,
+    "auto_detect_indentation": true,
+    "console_double_click_select": true,
+    "continue_comments_on_newline": true,
+    "doc_outline_show": "all",
+    "document_author": "Prescott Duszynski",
+    "enable_cloud_publish_ui": false,
+    "indent_guides": "rainbowfills",
+    "margin_column": 100,
+    "posiz_terminal_shell": "zsh",
+    "rainbow_parentheses": true,
+    "remove_history_duplicates": true,
+    "restore_last_project": false,
+    "show_hidden_files": true,
+    "show_last_dot_value": true,
+    "strip_trailing_whitespace": true,
+    "submit_crash_reports": false,
+    "sync_files_pane_working_dir": true,
+    "syntax_color_console": true,
+	"general": {
+		"ignoredUpdateVersions": [],
+		"clipboardMonitoring": true
+	},
+	"font": {
+		"proportionalFont": "",
+		"fixedWidthFont": ""
+	},
+	"view": {
+		"zoomLevel": 0.9,
+		"windowBounds": {
+			"x": 3472,
+			"y": 843,
+			"width": 604,
+			"height": 904
+		},
+		"accessibility": false,
+		"disableRendererAccessibility": false
+	},
+	"remote_session": {
+		"lastRemoteSessionUrl": "",
+		"authCookies": [],
+		"tempAuthCookies": []
+	},
+	"renderer": {
+		"engine": "auto",
+		"useGpuExclusionList": true,
+		"useGpuDriverBugWorkarounds": true
+	},
+	"platform": {
+		"windows": {
+			"rBinDir": "",
+			"preferR64": true,
+			"rExecutablePath": "C:\\Program Files\\R\\R-4.3.0\\bin\\x64\\Rterm.exe"
+		}
+	},
+	"context_id": "",
+	"auto_created_profile": false,
+	"theme": {
+		"name": "Textmate (default)",
+		"url": "theme/default/textmate.rstheme",
+		"isDark": false
+	},
+	"default_project_location": "",
+	"clear_hidden": true,
+	"export_plot_options": {
+		"width": 550,
+		"height": 450,
+		"keepRatio": false,
+		"format": "PNG",
+		"viewAfterSave": false,
+		"copyAsMetafile": false
+	},
+	"export_viewer_options": {},
+	"save_plot_as_pdf_options": {},
+	"compile_r_notebook_prefs": {},
+	"compile_r_markdown_notebook_prefs": {
+		"format": "html_document"
+	},
+	"show_publish_ui": true,
+	"enable_rsconnect_publish_ui": true,
+	"publish_account": {
+		"name": "",
+		"server": ""
+	},
+	"document_outline_width": 110,
+	"connect_via": "connect-r-console",
+	"error_handler_type": "traceback",
+	"using_mingw_gcc49": false,
+	"visual_mode_confirmed": false,
+	"bibliography_default_type": "bib",
+	"citation_default_in_text": false,
+	"zotero_connection_type": "auto",
+	"zotero_use_better_bibtex": false,
+	"zotero_api_key": "",
+	"zotero_data_dir": "",
+	"quarto_website_sync_editor": false
+}
