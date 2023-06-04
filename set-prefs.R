@@ -1,3 +1,26 @@
+# Meta
+install.packages("microbenchmark")
+install.packages("devtools")
+install.packagse("profvis")
+install.packages("rstudio.prefs")
+install.packages("rstudioapi")
+
+# Addins
+install.packages("colorpicker")
+install.packages("sinew")
+install.packages("objectremover")
+install.packages('remedy')
+install.packages("testthis")
+install.packages("hippie")
+devtools::install_github("dracodoc/mischelper")
+devtools::install_github("gadenbuie/regexplain")
+
+# Code Styline and Linting
+install.packages("styler")
+install.packages("lintr")
+
+
+
 #Set General Preferences
 rstudio.prefs::use_rstudio_prefs(
     auto_append_newline = TRUE,
