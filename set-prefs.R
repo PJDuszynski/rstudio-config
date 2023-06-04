@@ -1,9 +1,11 @@
 # Meta
 install.packages("microbenchmark")
 install.packages("devtools")
-install.packagse("profvis")
+install.packages("profvis")
 install.packages("rstudio.prefs")
 install.packages("rstudioapi")
+install.packages("usethis")
+install.packages("renv")
 
 # Addins
 install.packages("colorpicker")
@@ -14,8 +16,9 @@ install.packages("testthis")
 install.packages("hippie")
 devtools::install_github("dracodoc/mischelper")
 devtools::install_github("gadenbuie/regexplain")
+devtools::install_github("matt-dray/snorkel")
 
-# Code Styline and Linting
+# Code Styling and Linting
 install.packages("styler")
 install.packages("lintr")
 

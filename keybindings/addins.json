@@ -1,3 +1,5 @@
 {
-  "styler:::style_active_file": "Alt+Shift+F"
+  "styler:::style_active_file": "Alt+Shift+F",
+  "lintr:::addin_lint": "Alt+Shift+L",
+  ""
 }
