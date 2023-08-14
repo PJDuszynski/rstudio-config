@@ -29,7 +29,7 @@ rstudio.prefs::use_rstudio_prefs(
     auto_append_newline = TRUE,
     auto_detect_indentation = TRUE,
     console_double_click_select = TRUE,
-    continue_comments_on_newline = TRUE,
+    continue_comments_on_newline = FALSE,
     doc_outline_show = "all",
     enable_cloud_publish_ui = FALSE,
     indent_guides = "rainbowfills",
